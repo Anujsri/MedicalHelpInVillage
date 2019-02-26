@@ -6,5 +6,3 @@ Back-End : PHP,MySql
 
 WampServer or XampServer
 
-BootStrap for css and js.
-
